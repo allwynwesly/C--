@@ -8,8 +8,8 @@ int main() {
   return 0;
 }
   void add (int a) {
-  std::cout << "hello" << '\n';
+  cout << "hello" << '\n';
   }
   void add(int a, int b) {
-    std::cout << "hi";
+  cout << "hi";
   }
