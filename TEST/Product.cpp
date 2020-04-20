@@ -3,8 +3,7 @@ using namespace std;
 int main (){
 float a, b;
 cout<<"Enter two number: ";
-cin >> a;
-cin >> b;
+cin >> a >> b;
 float product=a*b;
 cout<<"Product = "<<product<<endl;
 return 0;
